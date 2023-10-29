@@ -85,7 +85,7 @@ As for Question 2, I was careless while reading the question and failed to under
 ## Week 5: Scripting and Configuration Files
 This week, we got into the basics of **scripting, environment variables** and **configuration files**.
 
-Commands introduced: <kbd>chmod u+x</kbd>, <kbd>if</kbd>, <kbd>$?</kbd>, <kbd>$#</kbd>, <kbd>printenv</kbd>, <kbd>echo</kbd>, <kbd>export</kbd>, <kbd>~/.bashrc</kbd>, <kbd>~/.bash_profile</kbd>, <kbd>source</kbd>, <kbd>alias</kbd>
+Commands introduced: <kbd>chmod u+x</kbd>, <kbd>if</kbd>, <kbd>$?</kbd>, <kbd>$#</kbd>, <kbd>printenv</kbd>, <kbd>echo</kbd>, <kbd>export</kbd>, <kbd>\~/.bashrc</kbd>, <kbd>~/.bash_profile</kbd>, <kbd>source</kbd>, <kbd>alias</kbd>
 
 <img src="assets/images/week5.png" alt="Photo" hspace="20" width="75%" align="center"/>
 
@@ -145,7 +145,7 @@ I personally found scripting to be great fun. It definitely felt like taking thi
 ## Week 6: Installing and Running Programs
 This week was all about **installing programs**, which included **Python packages** and **software libraries**. We also learned how to use **Makefiles**. 
 
-Commands introduced: sudo, su, whoami, passwd, apt-get/brew, locate, python, pip, pip install --user, python -m venv, virtualenv, deactivate, make
+Commands introduced: <kbd>sudo</kbd>, <kbd>su</kbd>, <kbd>whoami</kbd>, <kbd>passwd</kbd>, <kbd>apt-get</kbd>/<kbd>brew</kbd>, <kbd>locate</kbd>, <kbd>python</kbd>, <kbd>pip</kbd>, <kbd>pip install --user</kbd>, <kbd>python -m venv</kbd>, <kbd>virtualenv</kbd>, <kbd>deactivate</kbd>, <kbd>make</kbd>
 
 <img src="assets/images/week6.png" alt="Photo" hspace="20" width="50%" align="center"/>
 
@@ -164,7 +164,7 @@ There were some discrepancies between some of the official answers and the numbe
 ## Week 7: Version Control 
 The curriculum for this course culminated with **version control using Git and Github**. 
 
-Commands introduced: git --version, git config, //add -A, //commit -m, //pull, //push origin main, //log, //revert, //checkout, //merge 
+Commands introduced: <kbd>git --version</kbd>, <kbd>git config</kbd>, <kbd>//add -A</kbd>, <kbd>//commit -m</kbd>, <kbd>//pull</kbd>, <kbd>//push origin main</kbd>, <kbd>//log</kbd>, <kbd>//revert</kbd>, <kbd>//checkout</kbd>, <kbd>//merge</kbd> 
 
 <img src="assets/images/week7.png" alt="Photo" hspace="20" width="40%" align="center"/>
 
