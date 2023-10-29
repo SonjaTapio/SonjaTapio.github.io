@@ -28,7 +28,7 @@ My email address is sonja.tapio@helsinki.fi.
 
 ## Projects
 
-In October 2023, I successfully launched my first GitHub page as part of the course 'Command Line Tools for Linguists.' You can find out more about the course [here](https://github.com/SonjaTapio/cmdline-course.git).
+In October 2023, I successfully launched my first GitHub webpage as part of the course 'Command Line Tools for Linguists.' For more information, please click [here](https://github.com/SonjaTapio/SonjaTapio.github.io.git). 
 
 ## Misc. 
 
